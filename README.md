@@ -10,4 +10,4 @@
 
 프로젝트의 전체 아키텍처, 다른 레포지토리와의 연동, 설정 방법, 실행 가이드 등 자세한 내용은 아래의 메인 프로젝트 레포지토리를 참고해 주세요.
 
-👉 **[TrAI-Bot 메인 프로젝트 레포지토리 바로가기](https://github.com/brain1401/traibot_project)**
+👉 **[TrAI-Bot 메인 프로젝트 레포지토리 바로가기](https://github.com/GodsB1025/traibot_project)**
